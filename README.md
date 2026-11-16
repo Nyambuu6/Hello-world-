@@ -1,9 +1,9 @@
 
-# 🧮 Simple Calculator
+# Simple Calculator
 
 A simple calculator built using **HTML, CSS, and JavaScript**. It performs basic arithmetic operations with a clean and responsive user interface.
 
-## ✨ Features
+## Features
 
 - ➕ Addition
 - ➖ Subtraction
@@ -13,13 +13,13 @@ A simple calculator built using **HTML, CSS, and JavaScript**. It performs basic
 - ⌫ Delete last digit
 - 📱 Responsive design
 
-## 🚀 Technologies Used
+##Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+##Project Structure
 
 ```
 calculator/
@@ -29,7 +29,7 @@ calculator/
 │── README.md
 ```
 
-## 🛠 How to Run
+## How to Run
 
 1. Clone this repository:
    ```bash
@@ -40,7 +40,7 @@ calculator/
 
 3. Double-click `index.html` or open it in your favorite browser.
 
-## 📸 Screenshot
+## Screenshot
 
 Add a screenshot of your calculator here after completing the project.
 
@@ -49,7 +49,7 @@ Example:
 ```
 images/calculator.png
 
-## 🎯 Future Improvements
+## Future Improvements
 
 - Scientific calculator functions
 - Dark mode
@@ -57,17 +57,17 @@ images/calculator.png
 - Calculation history
 - Percentage and square root operations
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-### 👩‍💻 Author
+### Author
 
 **Sarah Nyabuto**
 
